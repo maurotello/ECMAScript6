@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "Entendiendo ecmascript6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurotello/ECMAScript6.git"
+  },
+  "author": "Mauro Tello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurotello/ECMAScript6/issues"
+  },
+  "homepage": "https://github.com/maurotello/ECMAScript6#readme"
+}
